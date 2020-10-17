@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+s is Saurabh Panai's slide.
 
 Use the left arrow to go back!
