@@ -6,6 +6,6 @@ title: "Welcome to our Saurabhpanai slide!"
 
 ---
 
-s is Saurabh Panai's slide.
+This is my awesome slide.
 
 Use the left arrow to go back!
